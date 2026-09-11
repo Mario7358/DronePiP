@@ -6,6 +6,10 @@ picture-in-picture (PiP) view, image adjustments, frame capture, and MP4 export.
 When embedded creation or recording timestamps are available, the application uses them to help 
 align the videos. Manual offset controls let you verify and correct the alignment.
 
+## Screenshot
+<img width="1355" height="1032" alt="image" src="https://github.com/user-attachments/assets/b88bbcbc-8c50-4678-9f7b-efa38844d642" />
+
+
 Why I Built This
 
 I developed this application to review and synchronize multiple videos, primarily drone footage. 
