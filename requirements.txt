@@ -1,0 +1,9 @@
+PyQt6
+PyOpenGL
+numpy
+
+py -3.13 -m pip install PyQt6
+
+py -m pip install PyOpenGL numpy PyQt6
+
+
